@@ -489,13 +489,13 @@ tei-explicit {
 tei-fileDesc > extent {
   display: none;
 }
-/* f */
+/* f 
 tei-figure {
   display: block;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 /* g */
 tei-g {
   /* Empty Rule Set */
