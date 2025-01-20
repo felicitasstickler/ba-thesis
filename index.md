@@ -10,7 +10,7 @@ nav_order: 1
 
 ---
 **Last update**: Jan 20th 2025
----
+
 
 # Allgemeine Informationen
 Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/). 
