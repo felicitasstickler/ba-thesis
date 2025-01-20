@@ -79,3 +79,6 @@ tei-location {
     font-style: oblique;
     color: Gray;
 }
+tei-figure {
+  float: links;
+}
