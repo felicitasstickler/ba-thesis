@@ -17,54 +17,65 @@ tei-lb:before {
   content: "\A";
 }
 tei-person_author {
-    color: #7B1AF2;
-    font-style: italic;
+    color: #784516;
+    font-weight: bold;
 }
 tei-text {
     display: inline;
     color: black;
-    font-family: Tahoma;
+    font-family: "Garamond";
 }
 tei-person_composer{
-    color: #7B1AF2;
+    color: #c48aff;
     font-weight: bold; 
     
 }
 
 tei-concept_mus {
-    color: #F49625;
-    font-weight: bold;
+    background-color: #ffd3a2;
+    
 }
 
 tei-concept_phy {
-    color: #F49625;
-    font-weight: lighter;
+    background-color: #f7f3c2;
+    
 }
 tei-work_text {
-    background-color: #DADCDD;
+    color: #be5402;
+    font-style: italic;
 }
 
 tei-work_music {
-    background-color: #82C5EC;
+    color: #ff7fa2;
+    font-style: italic;
 }
 
 tei-m_chord {
-    color: #9AFE2E;
+    color: #618bd1;
 }
 
 tei-m_interval{
-    color: #44A723;
+    color: #2fecdd;
 }
 
 tei-m_note {
-    color: #04B404;
+    color: #0079ba;
 }
 
 tei-m_tonality {
-    color: #088A08;
+    color: #00b1e2;
 }
 
 tei-hi {
     margin-left: 0.25em;
     margin-right: 0.25em;
+}
+tei-time {
+    font-style: oblique;
+    color: SlateBlue;
+}
+
+tei-location {
+    font-style: oblique;
+    color: Gray;
 }
