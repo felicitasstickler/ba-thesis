@@ -8,12 +8,13 @@ nav_order: 1
 # Ein minimales Modell für die gemischte Kodierung von Text (TEI) und Musiknotation (MEI)
 {: .fs-9 }
 
-Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/). 
-
 ---
 **Last update**: Jan 20th 2025
+---
 
 # Allgemeine Informationen
+Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/). 
+
 
 # Die edierten Texte
 - Capellen, Georg: Die Zukunft der Musiktheorie (Dualismus oder „Monismus“?) und ihre Einwirkung auf die Praxis, Leipzig 1905.
