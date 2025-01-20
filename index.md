@@ -23,7 +23,7 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - Kraushaar, Otto: Der accordliche Gegensatz und die Begründung der Scala, Kassel 1852.
 - Kunkel, Franz Joseph: Kritische Beleuchtung des C. F. Weitzmann’schen Harmoniesystems, Frankfurt a.M. 1863.
 - Naumann, Carl Ernst: Über die verschiedenen Bestimmungen der Tonverhältnisse unddie Bedeutung des pythagoreischen oder reinen Quint-Systems für unsere heutige Musik, Leipzig 1858.
-- Riemann, Hugo: Das Problem des harmonischen Dualismus: ein Beitrag zur Ästhetik der Musik, 1905.
+- [Riemann, Hugo: Das Problem des harmonischen Dualismus: ein Beitrag zur Ästhetik der Musik, 1905.](https://felicitasstickler.github.io/ba-thesis/texts/RIE1905/index.html)
 - Thürlings, Adolf: Die beiden Tongeschlechter und die neuere musikalische Theorie, 1877.
 - von Öttingen, Arthur: Harmoniesystem in dualer Entwicklung, Dorpat/Leipzig 1866.
 - Weitzmann, C. F.: Harmoniesystem, Leipzig 1860.
