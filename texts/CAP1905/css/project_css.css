@@ -80,5 +80,5 @@ tei-location {
     color: Gray;
 }
 tei-figure {
-  float: links;
+  float: left;
 }
