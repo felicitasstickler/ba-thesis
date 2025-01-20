@@ -81,4 +81,5 @@ tei-location {
 }
 tei-figure {
   float: left;
+  display: block;
 }
