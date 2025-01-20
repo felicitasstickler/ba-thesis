@@ -80,8 +80,8 @@ tei-location {
     color: Gray;
 }
 tei-figure {
-  float: left;
   display: block;
+  text-align: left;
   margin-left: auto;
   margin-right: auto;
 }
