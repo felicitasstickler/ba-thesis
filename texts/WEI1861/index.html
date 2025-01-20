@@ -4,9 +4,9 @@
   <head>
     <title>My project</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="css/CETEIcean.css" media="all" />
-    <link rel="stylesheet" href="css/project_css.css" media="all" />
-    <script src="js/CETEI.js"></script>
+    <link rel="stylesheet" href="../css/CETEIcean.css" media="all" />
+    <link rel="stylesheet" href="../css/project_css.css" media="all" />
+    <script src="../js/CETEI.js"></script>
     <script src="js/verovio.js"></script>
   </head>
 
@@ -17,7 +17,7 @@
   	<script>
   		/* CETEIcean */
 		var CETEIcean = new CETEI()
-			CETEIcean.getHTML5("RIE1905_xsl.xml", function(data) {
+			CETEIcean.getHTML5("WEI1861.xml", function(data) {
 			document.getElementById("TEI").appendChild(data)
 		})
 		/* Verovio */
