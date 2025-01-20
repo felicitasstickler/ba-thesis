@@ -17,7 +17,7 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 
 
 # Die edierten Texte
-- Capellen, Georg: Die Zukunft der Musiktheorie (Dualismus oder „Monismus“?) und ihre Einwirkung auf die Praxis, Leipzig 1905.
+- [Capellen, Georg: Die Zukunft der Musiktheorie (Dualismus oder „Monismus“?) und ihre Einwirkung auf die Praxis, Leipzig 1905.](https://felicitasstickler.github.io/ba-thesis/texts/CAP1905/index.html)
 - Hauptmann, Moritz: Die Natur der Harmonik und der Metrik. Zur Theorie der Musik, Leipzig 1853.
 - Hostinský, Ottokar: Die Lehre von den musikalischen Klängen. Ein Beitrag zur aesthetischen Begründung der Harmonielehre, Prag 1879.
 - Kraushaar, Otto: Der accordliche Gegensatz und die Begründung der Scala, Kassel 1852.
@@ -30,5 +30,4 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - Weitzmann, C. F.: Die neue Harmonielehre im Streit mit der alten von C. F. Weitzmann, Leipzig 1861.
 
 # Literaturhinweise
-
 
