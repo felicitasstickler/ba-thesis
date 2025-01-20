@@ -27,7 +27,7 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - Thürlings, Adolf: Die beiden Tongeschlechter und die neuere musikalische Theorie, 1877.
 - von Öttingen, Arthur: Harmoniesystem in dualer Entwicklung, Dorpat/Leipzig 1866.
 - Weitzmann, C. F.: Harmoniesystem, Leipzig 1860.
-- Weitzmann, C. F.: Die neue Harmonielehre im Streit mit der alten von C. F. Weitzmann, Leipzig 1861.
+- [Weitzmann, C. F.: Die neue Harmonielehre im Streit mit der alten von C. F. Weitzmann, Leipzig 1861.](https://felicitasstickler.github.io/ba-thesis/texts/WEI1861/index.html)
 
 # Literaturhinweise
 
