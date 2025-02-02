@@ -9,7 +9,7 @@ nav_order: 1
 {: .fs-9 }
 
 ---
-**Last update**: Jan 20th 2025
+**Last update**: Feb 2nd 2025
 
 
 # Allgemeine Informationen
@@ -21,7 +21,7 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - [Hauptmann, Moritz: Die Natur der Harmonik und der Metrik. Zur Theorie der Musik, Leipzig 1853.](https://felicitasstickler.github.io/ba-thesis/texts/HAU1853/index.html)
 - [Hostinský, Ottokar: Die Lehre von den musikalischen Klängen. Ein Beitrag zur aesthetischen Begründung der Harmonielehre, Prag 1879.](https://felicitasstickler.github.io/ba-thesis/texts/HOS1879/index.html)
 - Kraushaar, Otto: Der accordliche Gegensatz und die Begründung der Scala, Kassel 1852.
-- Kunkel, Franz Joseph: Kritische Beleuchtung des C. F. Weitzmann’schen Harmoniesystems, Frankfurt a.M. 1863.
+- [Kunkel, Franz Joseph: Kritische Beleuchtung des C. F. Weitzmann’schen Harmoniesystems, Frankfurt a.M. 1863.](https://felicitasstickler.github.io/ba-thesis/texts/KUN1863/index.html)
 - Naumann, Carl Ernst: Über die verschiedenen Bestimmungen der Tonverhältnisse unddie Bedeutung des pythagoreischen oder reinen Quint-Systems für unsere heutige Musik, Leipzig 1858.
 - [Riemann, Hugo: Das Problem des harmonischen Dualismus: ein Beitrag zur Ästhetik der Musik, 1905.](https://felicitasstickler.github.io/ba-thesis/texts/RIE1905/index.html)
 - [Thürlings, Adolf: Die beiden Tongeschlechter und die neuere musikalische Theorie, 1877.](https://felicitasstickler.github.io/ba-thesis/texts/THU1877/index.html)
