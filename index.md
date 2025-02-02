@@ -26,7 +26,7 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - [Riemann, Hugo: Das Problem des harmonischen Dualismus: ein Beitrag zur Ästhetik der Musik, 1905.](https://felicitasstickler.github.io/ba-thesis/texts/RIE1905/index.html)
 - [Thürlings, Adolf: Die beiden Tongeschlechter und die neuere musikalische Theorie, 1877.](https://felicitasstickler.github.io/ba-thesis/texts/THU1877/index.html)
 - [von Öttingen, Arthur: Harmoniesystem in dualer Entwicklung, Dorpat/Leipzig 1866.](https://felicitasstickler.github.io/ba-thesis/texts/OET1866/index.html)
-- Weitzmann, C. F.: Harmoniesystem, Leipzig 1860.
+- [Weitzmann, C. F.: Harmoniesystem, Leipzig 1860.](https://felicitasstickler.github.io/ba-thesis/texts/WEI1860/index.html)
 - [Weitzmann, C. F.: Die neue Harmonielehre im Streit mit der alten von C. F. Weitzmann, Leipzig 1861.](https://felicitasstickler.github.io/ba-thesis/texts/WEI1861/index.html)
 
 # Literaturhinweise
