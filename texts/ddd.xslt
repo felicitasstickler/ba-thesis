@@ -9,15 +9,15 @@
     <xsl:output encoding="UTF-8" indent="yes" method="xml"/>
     <xsl:template match="TEI">
         
-            
-            
-            <TEI>
-                <xsl:copy-of select="teiHeader"/>
-                <text>
-                    <body>
-                        <xsl:apply-templates select="facsimile[@xml:id]"/>
-                    </body></text>
-            </TEI>
+        
+        
+        <TEI>
+            <xsl:copy-of select="teiHeader"/>
+            <text>
+                <body>
+                    <xsl:apply-templates select="facsimile[@xml:id]"/>
+                </body></text>
+        </TEI>
         
     </xsl:template>
     
@@ -40,6 +40,9 @@
             <xsl:when test="@rendition='Music'">
                 <div rend="MEI"><xsl:copy select="@xml:id"/>
                     <xsl:attribute name="id" select="concat(@xml:id,'.mei')"/>MUSIK</div>
+            </xsl:when>
+            <xsl:when test="@rendition='Table'">
+                <div rend="TABLE"><xsl:copy select="@xml:id"/><figure><graphic> <xsl:attribute name="url" select="concat('table/',@xml:id,'.png')"/></graphic></figure></div>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
