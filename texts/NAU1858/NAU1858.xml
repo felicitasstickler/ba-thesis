@@ -2912,6 +2912,11 @@
                <lb facs="#facs_18_line_1611265178337_1534" n="N001"/>3
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_18_Table_1611265216207_1553">
+            <figure>
+               <graphic url="table/facs_18_Table_1611265216207_1553.png"/>
+            </figure>
+         </div>
          <pb facs="#facs_19" n="19"/>
          <div rend="TEI" xml:id="facs_19_region_1611266413555_1618">
             <p facs="#facs_19_region_1611266413555_1618">
@@ -3363,6 +3368,11 @@
 				<lb facs="#facs_23_r2l18" n="N005"/>bräuchlichsten <m_tonality>Tonarten</m_tonality> geschehen ist:
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_23_Table_1611336364858_2334">
+            <figure>
+               <graphic url="table/facs_23_Table_1611336364858_2334.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_23_TextRegion_1611336292467_2312">
             <p facs="#facs_23_TextRegion_1611336292467_2312">
                <lb facs="#facs_23_r2l102" n="N001"/>Es ist hier die die <concept_phy>Tonhöhe</concept_phy> bestimmende <concept_phy>Potenz</concept_phy> von 2 unbestimmt gelassen; sie kann,
@@ -3515,6 +3525,11 @@
             <p facs="#facs_26_TextRegion_1611338290669_2960">
                <lb facs="#facs_26_r8l1" n="N001"/>11
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_26_Table_1611338394181_2982">
+            <figure>
+               <graphic url="table/facs_26_Table_1611338394181_2982.png"/>
+            </figure>
          </div>
          <pb facs="#facs_27" n="27"/>
          <div rend="TEI" xml:id="facs_27_TextRegion_1611339855848_3026">
@@ -3681,11 +3696,21 @@
                <m_tonality>Moll-Scalen</m_tonality> vorkommen.
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_28_Table_1611340920461_3090">
+            <figure>
+               <graphic url="table/facs_28_Table_1611340920461_3090.png"/>
+            </figure>
+         </div>
          <pb facs="#facs_29" n="29"/>
          <div rend="TEI" xml:id="facs_29_TextRegion_1611341431656_3221">
             <p facs="#facs_29_TextRegion_1611341431656_3221">
                <lb facs="#facs_29_r2l1" n="N001"/>14
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_29_Table_1611341480954_3231">
+            <figure>
+               <graphic url="table/facs_29_Table_1611341480954_3231.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_29_TextRegion_1613654484609_1630">
             <p facs="#facs_29_TextRegion_1613654484609_1630">
@@ -3749,6 +3774,11 @@
                <concept_phy>relativen Schwingungszahlen</concept_phy> gesondert neben einander gestellt und die letzteren zugleich sämmt¬
 				<lb facs="#facs_30_r1l7" n="N003"/>lich durch <hi rend="italic:true; fontSize:0.0; kerning:0;">Q</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">T</hi> ausgedrückt.
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_30_Table_1611341786794_3357">
+            <figure>
+               <graphic url="table/facs_30_Table_1611341786794_3357.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_30_TextRegion_1611341731505_3338">
             <p facs="#facs_30_TextRegion_1611341731505_3338">
@@ -3829,11 +3859,21 @@
                <lb facs="#facs_31_r2l16" n="N012"/>bilden, wie folgende Uebersicht über nur einige solche <m_tonality>Scalen</m_tonality> zeigt.
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_31_Table_1611343504791_3508">
+            <figure>
+               <graphic url="table/facs_31_Table_1611343504791_3508.png"/>
+            </figure>
+         </div>
          <pb facs="#facs_32" n="32"/>
          <div rend="TEI" xml:id="facs_32_TextRegion_1611343645096_3573">
             <p facs="#facs_32_TextRegion_1611343645096_3573">
                <lb facs="#facs_32_r1l1" n="N001"/>17
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_32_Table_1611343690694_3582">
+            <figure>
+               <graphic url="table/facs_32_Table_1611343690694_3582.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_32_TextRegion_1611343637291_3566">
             <p facs="#facs_32_TextRegion_1611343637291_3566">
@@ -4235,6 +4275,11 @@
 				<lb facs="#facs_38_r1l8" n="N005"/>lichst genähert an.
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_38_Table_1611357883613_4028">
+            <figure>
+               <graphic url="table/facs_38_Table_1611357883613_4028.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_38_TextRegion_1611357814681_4014">
             <p facs="#facs_38_TextRegion_1611357814681_4014">
                <lb facs="#facs_38_r1l115" n="N001"/>Ganz übereinstimmend sind hier natürlich die <concept_mus>Intervallbestimmungen</concept_mus> der <m_interval>grossen Terz</m_interval> (<hi rend="italic:true; fontSize:0.0; kerning:0;">T</hi>),
@@ -4277,6 +4322,11 @@
 				<lb facs="#facs_39_r2l9" n="N005"/>Bestimmungen eine weit grössere ist, als im <concept_mus>System</concept_mus> der <m_interval>reinen grossen Terz</m_interval>, wie folgende Ueber¬
 				<lb facs="#facs_39_r2l10" n="N006"/>sicht zeigt:
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_39_Table_1611358325186_4134">
+            <figure>
+               <graphic url="table/facs_39_Table_1611358325186_4134.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_39_TextRegion_1611358275768_4130">
             <p facs="#facs_39_TextRegion_1611358275768_4130">
