@@ -562,6 +562,11 @@
 				<lb facs="#facs_11_r1l9" n="N008"/>dies einzusehen:
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_11_Table_1626023715092_494">
+            <figure>
+               <graphic url="table/facs_11_Table_1626023715092_494.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_11_TextRegion_1626023683838_480">
             <p facs="#facs_11_TextRegion_1626023683838_480">
                <lb facs="#facs_11_r1l75" n="N001"/>Nehmen wir die <concept_phy>Schwingungszahl</concept_phy> des <m_note>Grundtones</m_note> (<hi rend="italic:true; fontSize:0.0; kerning:0;">
@@ -6453,6 +6458,11 @@
 				<lb facs="#facs_70_r1l63" n="N010"/>da sie geeignet ist, unsere bisherigen Untersuchungen bestens zu illustriren:
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_70_Table_1626174350777_1895">
+            <figure>
+               <graphic url="table/facs_70_Table_1626174350777_1895.png"/>
+            </figure>
+         </div>
          <pb facs="#facs_71" n="71"/>
          <div rend="TEI" xml:id="facs_71_TextRegion_1626174448490_2001">
             <p facs="#facs_71_TextRegion_1626174448490_2001">
@@ -7415,6 +7425,11 @@
                <lb facs="#facs_79_line_1626175444279_3122" n="N002"/>
                <m_interval>valle</m_interval> wären:
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_79_Table_1626175415715_3060">
+            <figure>
+               <graphic url="table/facs_79_Table_1626175415715_3060.png"/>
+            </figure>
          </div>
          <pb facs="#facs_80" n="80"/>
          <div rend="TEI" xml:id="facs_80_TextRegion_1626175489223_3154">
