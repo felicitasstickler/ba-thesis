@@ -17,13 +17,6 @@
    </teiHeader>
    <text>
       <body>
-         <pb facs="#facs_1" n="1"/>
-         <pb facs="#facs_2" n="2"/>
-         <pb facs="#facs_3" n="3"/>
-         <pb facs="#facs_4" n="4"/>
-         <pb facs="#facs_5" n="5"/>
-         <pb facs="#facs_6" n="6"/>
-         <pb facs="#facs_7" n="7"/>
          <div rend="TEI" xml:id="facs_7_r1">
             <p facs="#facs_7_r1">
                <lb facs="#facs_7_r1l1" n="N001"/>
