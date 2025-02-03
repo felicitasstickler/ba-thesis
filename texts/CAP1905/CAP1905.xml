@@ -3459,14 +3459,7 @@
                <m_interval>c—cis</m_interval>. Mit
 				<lb facs="#facs_42_r1l13" n="N012"/>Recht wendet sich hier <person_author ID="P0017">Riemann</person_author> gegen <person_author ID="P0001">Helmholtz</person_author>, der durch die
 				<lb facs="#facs_42_r1l14" n="N013"/>
-               <concept_mus>Erniedrigung</concept_mus> der <m_interval>Terz</m_interval> um $$MATH <mrow>
-                  <mfrac bevelled="true">
-                     <mn>1</mn>
-                     <mrow>
-                        <mn>2</mn>
-                     </mrow>
-                  </mfrac>
-               </mrow>Ton die <concept_mus>
+               <concept_mus>Erniedrigung</concept_mus> der <m_interval>Terz</m_interval> um $$MATH Ton die <concept_mus>
                   <concept_phy>Konsonanz</concept_phy>
                </concept_mus> des <m_chord>Durakkordes</m_chord>
                <lb facs="#facs_42_r1l15" n="N014"/>nur getrübt, aber nicht aufgehoben wissen will (<work_text ID="W0009">Problemschrift</work_text> S. 5).
