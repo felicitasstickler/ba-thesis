@@ -231,6 +231,11 @@
                <lb facs="#facs_11_r1l19" n="N003"/>auf folgende Weise unter:
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_11_Table_1612354739939_1344">
+            <figure>
+               <graphic url="table/facs_11_Table_1612354739939_1344.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_11_TextRegion_1612354550569_1318">
             <p facs="#facs_11_TextRegion_1612354550569_1318">
                <lb facs="#facs_11_r1l23" n="N001"/>Die zu den <concept_phy>Zahlen</concept_phy> 7, 11, 13 und 14 gesetzten <m_note>Töne</m_note>
@@ -282,6 +287,11 @@
                </hi> für die Zahl 22 in Anspruch nehmen zu
 				<lb facs="#facs_12_r1l15" n="N008"/>können:
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_12_Table_1612354927138_1445">
+            <figure>
+               <graphic url="table/facs_12_Table_1612354927138_1445.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_12_TextRegion_1612354875179_1425">
             <p facs="#facs_12_TextRegion_1612354875179_1425">
@@ -373,6 +383,11 @@
             <p facs="#facs_13_TextRegion_1612355323157_1631">
                <lb facs="#facs_13_line_1612355317465_1628" n="N001"/>Die aus diesen Bedingungen resultirende <concept_phy>Zahlenreihe</concept_phy>:
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_13_Table_1612355461166_1687">
+            <figure>
+               <graphic url="table/facs_13_Table_1612355461166_1687.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_13_TextRegion_1612355445447_1683">
             <p facs="#facs_13_TextRegion_1612355445447_1683">
@@ -28740,6 +28755,11 @@
 				<lb facs="#facs_382_r1l27" n="N008"/>monisch-Negative im metrisch-Positiven; <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) das harmo¬
 				<lb facs="#facs_382_r1l28" n="N009"/>nisch-Negative im metrisch-Negativen:
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_382_Table_1612995310277_3435">
+            <figure>
+               <graphic url="table/facs_382_Table_1612995310277_3435.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_382_TextRegion_1612995057982_3395">
             <p facs="#facs_382_TextRegion_1612995057982_3395">
