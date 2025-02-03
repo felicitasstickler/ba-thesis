@@ -1337,6 +1337,11 @@
                <lb facs="#facs_26_r1l1" n="N001"/>18
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_26_Table_1616435540853_2565">
+            <figure>
+               <graphic url="table/facs_26_Table_1616435540853_2565.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_26_TextRegion_1616435510024_2556">
             <p facs="#facs_26_TextRegion_1616435510024_2556">
                <lb facs="#facs_26_r1l15" n="N001"/>Der Vortheil meiner Schreibweise wird noch aus <concept_mus>theo¬</concept_mus>
@@ -2833,6 +2838,11 @@
             <p facs="#facs_44_TextRegion_1616438327649_4818">
                <lb facs="#facs_44_r1l1" n="N001"/>36
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_44_Table_1616438366125_4822">
+            <figure>
+               <graphic url="table/facs_44_Table_1616438366125_4822.png"/>
+            </figure>
          </div>
          <div rend="TEI" xml:id="facs_44_TextRegion_1616438324909_4813">
             <p facs="#facs_44_TextRegion_1616438324909_4813">
@@ -4663,6 +4673,11 @@
                <m_interval>taven</m_interval> beschränken:
 			</p>
          </div>
+         <div rend="TABLE" xml:id="facs_62_Table_1620847894664_516">
+            <figure>
+               <graphic url="table/facs_62_Table_1620847894664_516.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_62_TextRegion_1620847824748_489">
             <p facs="#facs_62_TextRegion_1620847824748_489">
                <lb facs="#facs_62_line_1620847945758_568" n="N001"/>Wie man sieht, stimmt diese Reihe gut überein mit den hergebrachten An¬
@@ -4693,6 +4708,11 @@
          <div rend="MEI"
               xml:id="facs_63_Music_1620848192086_672"
               id="facs_63_Music_1620848192086_672.mei">MUSIK</div>
+         <div rend="TABLE" xml:id="facs_63_Table_1620848183626_664">
+            <figure>
+               <graphic url="table/facs_63_Table_1620848183626_664.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_63_TextRegion_1620848026888_610">
             <p facs="#facs_63_TextRegion_1620848026888_610">
                <lb facs="#facs_63_r1l35" n="N001"/>Wie man sieht, weicht die von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">
@@ -4714,6 +4734,11 @@
          <div rend="MEI"
               xml:id="facs_63_Music_1620848164318_657"
               id="facs_63_Music_1620848164318_657.mei">MUSIK</div>
+         <div rend="TABLE" xml:id="facs_63_Table_1620848151301_649">
+            <figure>
+               <graphic url="table/facs_63_Table_1620848151301_649.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_63_TextRegion_1620848014233_600">
             <p facs="#facs_63_TextRegion_1620848014233_600">
                <lb facs="#facs_63_r1l72" n="N001"/>Ich muss ausdrücklich daran erinnern, dass die Reihenfolge nicht etwa an
@@ -4875,6 +4900,11 @@
             </p>
          </div>
          <div rend="TEI" xml:id="facs_65_TextRegion_1620849121031_932"/>
+         <div rend="TABLE" xml:id="facs_65_Table_1620849172311_936">
+            <figure>
+               <graphic url="table/facs_65_Table_1620849172311_936.png"/>
+            </figure>
+         </div>
          <div rend="TEI" xml:id="facs_65_TextRegion_1620848585602_914">
             <p facs="#facs_65_TextRegion_1620848585602_914">
                <lb facs="#facs_65_r1l21" n="N001"/>Die von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">
@@ -15371,6 +15401,11 @@
             <p facs="#facs_210_TextRegion_1621264110671_5064">
                <lb facs="#facs_210_r4l1" n="N001"/>200
 			</p>
+         </div>
+         <div rend="TABLE" xml:id="facs_210_Table_1621264185582_5084">
+            <figure>
+               <graphic url="table/facs_210_Table_1621264185582_5084.png"/>
+            </figure>
          </div>
          <pb facs="#facs_211" n="211"/>
          <div rend="TEI" xml:id="facs_211_TextRegion_1621264231453_5119">
