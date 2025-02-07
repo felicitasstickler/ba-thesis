@@ -15,7 +15,7 @@ nav_order: 1
 # Allgemeine Informationen
 Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/zur_css_gestaltung.html). 
 
-Die edierten Texte wurden mit einem eigenen System typographisch aufbereitet. Weitere Informationen zur CSS-Gestaltung finden sich [hier](https://felicitasstickler.github.io/ba-thesis/texts/css/.
+Die edierten Texte wurden mit einem eigenen System typographisch aufbereitet. Weitere Informationen zur CSS-Gestaltung finden sich [hier](https://felicitasstickler.github.io/ba-thesis/texts/css/).
 
 
 # Die edierten Texte
