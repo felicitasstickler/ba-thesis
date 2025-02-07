@@ -9,7 +9,7 @@ nav_order: 1
 {: .fs-9 }
 
 ---
-**Last update**: Feb 2nd 2025
+**Last update**: Feb 7nd 2025
 
 
 # Allgemeine Informationen
