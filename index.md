@@ -22,7 +22,7 @@ Die edierten Texte wurden mit einem eigenen System typographisch aufbereitet. We
 - [Capellen, Georg: Die Zukunft der Musiktheorie (Dualismus oder „Monismus“?) und ihre Einwirkung auf die Praxis, Leipzig 1905.](https://felicitasstickler.github.io/ba-thesis/texts/CAP1905/index.html)
 - [Hauptmann, Moritz: Die Natur der Harmonik und der Metrik. Zur Theorie der Musik, Leipzig 1853.](https://felicitasstickler.github.io/ba-thesis/texts/HAU1853/index.html)
 - [Hostinský, Ottokar: Die Lehre von den musikalischen Klängen. Ein Beitrag zur aesthetischen Begründung der Harmonielehre, Prag 1879.](https://felicitasstickler.github.io/ba-thesis/texts/HOS1879/index.html)
-- Kraushaar, Otto: Der accordliche Gegensatz und die Begründung der Scala, Kassel 1852.
+- [Kraushaar, Otto: Der accordliche Gegensatz und die Begründung der Scala, Kassel 1852.](https://felicitasstickler.github.io/ba-thesis/texts/KRA1852/index.html)
 - [Kunkel, Franz Joseph: Kritische Beleuchtung des C. F. Weitzmann’schen Harmoniesystems, Frankfurt a.M. 1863.](https://felicitasstickler.github.io/ba-thesis/texts/KUN1863/index.html)
 - [Naumann, Carl Ernst: Über die verschiedenen Bestimmungen der Tonverhältnisse und die Bedeutung des pythagoreischen oder reinen Quint-Systems für unsere heutige Musik, Leipzig 1858.](https://felicitasstickler.github.io/ba-thesis/texts/NAU1858/index.html)
 - [Riemann, Hugo: Das Problem des harmonischen Dualismus: ein Beitrag zur Ästhetik der Musik, 1905.](https://felicitasstickler.github.io/ba-thesis/texts/RIE1905/index.html)
