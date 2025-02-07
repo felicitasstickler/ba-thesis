@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="TEI">
+      <element name="teiHeader">
+        <element name="fileDesc">
+          <element name="titleStmt">
+            <element name="title">
+              <attribute name="type">
+                <data type="NCName"/>
+              </attribute>
+              <data type="NCName"/>
+            </element>
+          </element>
+          <element name="publicationStmt">
+            <ref name="publisher"/>
+          </element>
+          <element name="sourceDesc">
+            <element name="bibl">
+              <ref name="publisher"/>
+            </element>
+          </element>
+        </element>
+      </element>
+      <oneOrMore>
+        <element name="facsimile">
+          <attribute>
+            <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+            <data type="NCName"/>
+          </attribute>
+          <element name="surface">
+            <attribute name="lrx">
+              <data type="integer"/>
+            </attribute>
+            <attribute name="lry">
+              <data type="integer"/>
+            </attribute>
+            <attribute name="ulx">
+              <data type="integer"/>
+            </attribute>
+            <attribute name="uly">
+              <data type="integer"/>
+            </attribute>
+            <element name="graphic">
+              <attribute name="height">
+                <data type="NMTOKEN"/>
+              </attribute>
+              <attribute name="url">
+                <data type="NCName"/>
+              </attribute>
+              <attribute name="width">
+                <data type="NMTOKEN"/>
+              </attribute>
+            </element>
+            <zeroOrMore>
+              <element name="zone">
+                <attribute name="points"/>
+                <attribute name="rendition">
+                  <data type="NCName"/>
+                </attribute>
+                <optional>
+                  <attribute name="subtype">
+                    <data type="NCName"/>
+                  </attribute>
+                </optional>
+                <attribute>
+                  <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+                  <data type="NCName"/>
+                </attribute>
+              </element>
+            </zeroOrMore>
+          </element>
+        </element>
+      </oneOrMore>
+      <element name="text">
+        <element name="body">
+          <oneOrMore>
+            <choice>
+              <element name="p">
+                <attribute name="facs"/>
+                <oneOrMore>
+                  <choice>
+                    <text/>
+                    <ref name="concept_mus"/>
+                    <ref name="concept_phy"/>
+                    <ref name="hi"/>
+                    <ref name="location"/>
+                    <ref name="m_chord"/>
+                    <ref name="m_interval"/>
+                    <ref name="m_note"/>
+                    <ref name="m_tonality"/>
+                    <ref name="mrow"/>
+                    <ref name="person_author"/>
+                    <ref name="person_composer"/>
+                    <ref name="time"/>
+                    <ref name="work_music"/>
+                    <ref name="work_text"/>
+                    <element name="lb">
+                      <attribute name="facs"/>
+                      <attribute name="n">
+                        <data type="NCName"/>
+                      </attribute>
+                    </element>
+                  </choice>
+                </oneOrMore>
+              </element>
+              <element name="pb">
+                <attribute name="facs"/>
+                <attribute name="n">
+                  <data type="integer"/>
+                </attribute>
+              </element>
+            </choice>
+          </oneOrMore>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="publisher">
+    <element name="publisher">
+      <text/>
+    </element>
+  </define>
+  <define name="m_interval">
+    <element name="m_interval">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="concept_mus">
+    <element name="concept_mus">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_phy"/>
+          <ref name="hi"/>
+          <ref name="m_chord"/>
+          <ref name="m_interval"/>
+          <ref name="m_note"/>
+          <ref name="m_tonality"/>
+          <ref name="work_music"/>
+          <ref name="work_text"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="person_author">
+    <element name="person_author">
+      <optional>
+        <attribute name="ID"/>
+      </optional>
+      <optional>
+        <attribute name="name"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_phy"/>
+          <ref name="hi"/>
+          <ref name="person_composer"/>
+          <ref name="work_text"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="mrow">
+    <element name="mrow">
+      <optional>
+        <element name="mfrac">
+          <attribute name="bevelled">
+            <data type="boolean"/>
+          </attribute>
+          <ref name="mn"/>
+          <ref name="mrow"/>
+        </element>
+        <ref name="mn"/>
+      </optional>
+    </element>
+  </define>
+  <define name="time">
+    <element name="time">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="hi"/>
+          <ref name="person_author"/>
+          <ref name="person_composer"/>
+          <ref name="work_text"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="location">
+    <element name="location">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="work_music">
+    <element name="work_music">
+      <attribute name="ID">
+        <data type="NCName"/>
+      </attribute>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+          <ref name="m_tonality"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="m_chord">
+    <element name="m_chord">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="m_note">
+    <element name="m_note">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_phy"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="work_text">
+    <element name="work_text">
+      <optional>
+        <attribute name="ID"/>
+      </optional>
+      <optional>
+        <attribute name="title"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="concept_phy"/>
+          <ref name="hi"/>
+          <ref name="m_interval"/>
+          <ref name="m_tonality"/>
+          <ref name="person_author"/>
+          <ref name="time"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="m_tonality">
+    <element name="m_tonality">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="hi">
+    <element name="hi">
+      <optional>
+        <attribute name="rend"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="concept_phy"/>
+          <ref name="location"/>
+          <ref name="m_chord"/>
+          <ref name="m_interval"/>
+          <ref name="m_note"/>
+          <ref name="m_tonality"/>
+          <ref name="person_author"/>
+          <ref name="person_composer"/>
+          <ref name="time"/>
+          <ref name="work_music"/>
+          <ref name="work_text"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="person_composer">
+    <element name="person_composer">
+      <attribute name="ID">
+        <data type="NCName"/>
+      </attribute>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="concept_phy">
+    <element name="concept_phy">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="concept_mus"/>
+          <ref name="hi"/>
+          <ref name="m_note"/>
+          <ref name="person_author"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="mn">
+    <element name="mn">
+      <data type="integer"/>
+    </element>
+  </define>
+</grammar>
