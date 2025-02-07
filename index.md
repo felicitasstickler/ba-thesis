@@ -13,7 +13,9 @@ nav_order: 1
 
 
 # Allgemeine Informationen
-Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/). 
+Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die Arbeit basiert auf dem Projekt ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/zur_css_gestaltung.html). 
+
+Die edierten Texte wurden mit einem eigenen System typographisch aufbereitet. Weitere Informationen zur CSS-Gestaltung finden sich [hier](https://felicitasstickler.github.io/ba-thesis/texts/css/.
 
 
 # Die edierten Texte
@@ -29,5 +31,5 @@ Auf dieser Seite werden die Ergebnisse meiner Bachelorarbeit präsentiert. Die A
 - [Weitzmann, C. F.: Harmoniesystem, Leipzig 1860.](https://felicitasstickler.github.io/ba-thesis/texts/WEI1860/index.html)
 - [Weitzmann, C. F.: Die neue Harmonielehre im Streit mit der alten von C. F. Weitzmann, Leipzig 1861.](https://felicitasstickler.github.io/ba-thesis/texts/WEI1861/index.html)
 
-# Literaturhinweise
+
 
